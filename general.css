@@ -1,0 +1,41 @@
+.navbar{
+    background-color: rgb(147, 145, 145);
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    color: white;
+    background-color: gray;
+}
+.nav LI{
+    list-style: none;
+    display: inline-block;
+    margin-left: 100px;
+}
+.nav li a{
+    text-decoration: none;
+    color: black;
+}
+li a:hover{
+    color: salmon;
+}
+
+h1{
+    padding-top: 50px;
+}
+body{
+    background-color: beige;
+}
+p{
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    color: salmon;
+}

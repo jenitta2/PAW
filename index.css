@@ -1,0 +1,50 @@
+.navbar{
+    background-color: rgb(147, 145, 145);
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    color: white;
+    background-color: gray;
+}
+.nav LI{
+    list-style: none;
+    display: inline-block;
+    margin-left: 100px;
+}
+.nav li a{
+    text-decoration: none;
+    color: black;
+}
+li a:hover{
+    color:aqua;
+}
+
+h1{
+    padding-top: 5px;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-bottom: -10px;
+}
+p{
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: saddlebrown;
+}
+.image p,img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%; 
+}
+body{
+    background-color: beige;
+}
